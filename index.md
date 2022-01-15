@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-#This is Parth Shukla - Micosft Certifiesd Trainer 
+#This is Parth Shukla - Micosft Certified Trainer 
 
 ##Feel Free to Connect with me on LinkedIn
 
@@ -13,6 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+
+#This is Parth Shukla - Micosft Certified Trainer 
+
+##Feel Free to Connect with me on LinkedIn
 
 # Header 1
 ## Header 2
@@ -28,6 +33,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
